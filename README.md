@@ -16,7 +16,7 @@ Machine Learning Enthusiast • CSE @ SRMIST, Ghaziabad
 
 🎓 B.Tech **Computer Science & Engineering** student at **SRMIST, Ghaziabad**
 🤖 Passionate about building intelligent, data-driven systems using **Python and ML frameworks**
-📊 Solved **150+ problems on LeetCode**
+📊 Solved **200+ problems on LeetCode**
 🧠 Strong foundation in **Data Structures and Machine Learning**
 ⚡ Experienced with Supervised Learning and Object-Oriented Programming
 
