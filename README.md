@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Machine Learning Enthusiast • CSE @ SRMIST, Ghaziabad
+Computer Science Student | ML & Data Science | Python | C++ | DSA
 </p>
 
 <p align="center">
